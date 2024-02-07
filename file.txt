@@ -1,2 +1,2 @@
 Version control course
-Javascript is cool
+PHP is cool
